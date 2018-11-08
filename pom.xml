@@ -88,6 +88,7 @@
 			</modules>
 		</profile>
 		<!-- M2E profile to allow easy import into Eclipse -->
+		<!-- M2E profile to allow easy import into Eclipse -->
 		<profile>
 			<id>m2e</id>
 			<activation>
